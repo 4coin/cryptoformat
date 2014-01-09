@@ -1,0 +1,13 @@
+Thrown together by tshabs.
+=====================================
+1.  Upload files to PHP capable webserver.
+
+2.  Include formatcrypto.php in your script.  Eg.  require_once('script/formatcrypto.php');
+
+3.  Adjust the config in formatcrypto.php to change colours, styles and to add more cryptocurrencies.
+
+4.  Use by calling: string displayCurrency ( decimal $actual_value , string $currency [ , boolean $show_whole_thing = true , boolean $show_all_units = false , boolean $coin_unit_on_left = true ] ) 
+
+5.  Display legend by calling: string displayLegend( string $currency, boolean $show_example = false)
+
+6.  Have fun !
