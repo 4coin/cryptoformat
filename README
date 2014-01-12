@@ -11,3 +11,5 @@ Thrown together by tshabs.
 5.  Display legend by calling: string displayLegend( string $currency, boolean $show_example = false)
 
 6.  Have fun !
+
+Project Homepage: http://www.cryptoformat.com
